@@ -177,5 +177,5 @@ Bebas digunakan sebagai referensi belajar dengan tetap mencantumkan sumber.
 ---
 
 <div align="center">
-  <sub>Dibuat dengan ❤️ oleh <strong>Benaya Bagas Christianto</strong> · UBSI 2024</sub>
+  <sub>Dibuat dengan ❤️ oleh <strong>Benaya Bagas Christianto</strong> · UBSI 2025</sub>
 </div>
