@@ -1,4 +1,4 @@
-# 🌐 Konfigurasi Jaringan Enterprise — UBSI
+#  Konfigurasi Jaringan Enterprise — UBSI
 ### Cisco Packet Tracer · VLAN · Inter-VLAN Routing · STP
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Tentang Proyek
+##  Tentang Proyek
 
 Proyek ini merupakan **simulasi dan konfigurasi arsitektur jaringan enterprise** yang dikerjakan sebagai tugas mata kuliah **Jaringan Komputer** di Universitas Bina Sarana Informatika (UBSI).
 
@@ -16,7 +16,7 @@ Simulasi dibangun menggunakan **Cisco Packet Tracer** dengan menerapkan konsep V
 
 ---
 
-## 🎯 Tujuan Proyek
+##  Tujuan Proyek
 
 - ✅ Memahami konsep dan implementasi **VLAN** (Virtual Local Area Network)
 - ✅ Mengonfigurasi **Inter-VLAN Routing** menggunakan Router-on-a-Stick
@@ -26,7 +26,7 @@ Simulasi dibangun menggunakan **Cisco Packet Tracer** dengan menerapkan konsep V
 
 ---
 
-## 🏗️ Topologi Jaringan
+##  Topologi Jaringan
 
 ```
                         [ INTERNET / ISP ]
@@ -43,7 +43,7 @@ Simulasi dibangun menggunakan **Cisco Packet Tracer** dengan menerapkan konsep V
 
 ---
 
-## 📡 Daftar VLAN
+##  Daftar VLAN
 
 | VLAN ID | Nama           | Subnet           | Gateway         | Keterangan              |
 |---------|----------------|------------------|-----------------|-------------------------|
@@ -53,7 +53,7 @@ Simulasi dibangun menggunakan **Cisco Packet Tracer** dengan menerapkan konsep V
 
 ---
 
-## 🛠️ Teknologi & Perangkat
+##  Teknologi & Perangkat
 
 | Komponen            | Perangkat / Teknologi           |
 |---------------------|---------------------------------|
@@ -67,7 +67,7 @@ Simulasi dibangun menggunakan **Cisco Packet Tracer** dengan menerapkan konsep V
 
 ---
 
-## ⚙️ Konfigurasi Utama
+##  Konfigurasi Utama
 
 ### 1. Konfigurasi VLAN di Switch
 
@@ -107,7 +107,7 @@ Router(config-subif)# ip address 192.168.30.1 255.255.255.0
 
 ---
 
-## 📂 Struktur File
+##  Struktur File
 
 ```
 cisco-packet-tracer-school-network/
@@ -119,7 +119,7 @@ cisco-packet-tracer-school-network/
 
 ---
 
-## 🚀 Cara Menggunakan
+##  Cara Menggunakan
 
 ### Prasyarat
 - Install **Cisco Packet Tracer 8.x** terlebih dahulu
@@ -149,18 +149,18 @@ cisco-packet-tracer-school-network/
 
 ---
 
-## ✅ Hasil Pengujian Konektivitas
+##  Hasil Pengujian Konektivitas
 
 | Sumber     | Tujuan         | Status      |
 |------------|----------------|-------------|
-| VLAN 10    | VLAN 20        | ✅ Berhasil  |
-| VLAN 10    | VLAN 30        | ✅ Berhasil  |
-| VLAN 20    | VLAN 30        | ✅ Berhasil  |
-| Semua VLAN | Gateway Router | ✅ Berhasil  |
+| VLAN 10    | VLAN 20        |  Berhasil  |
+| VLAN 10    | VLAN 30        |  Berhasil  |
+| VLAN 20    | VLAN 30        |  Berhasil  |
+| Semua VLAN | Gateway Router |  Berhasil  |
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Benaya Bagas Christianto**  
 Mahasiswa Teknologi Informasi — Universitas Bina Sarana Informatika (UBSI)
@@ -169,7 +169,7 @@ Mahasiswa Teknologi Informasi — Universitas Bina Sarana Informatika (UBSI)
 
 ---
 
-## 📄 Lisensi
+##  Lisensi
 
 Proyek ini dibuat untuk keperluan **akademik** sebagai tugas mata kuliah Jaringan Komputer.  
 Bebas digunakan sebagai referensi belajar dengan tetap mencantumkan sumber.
