@@ -18,11 +18,11 @@ Simulasi dibangun menggunakan **Cisco Packet Tracer** dengan menerapkan konsep V
 
 ##  Tujuan Proyek
 
-- ✅ Memahami konsep dan implementasi **VLAN** (Virtual Local Area Network)
-- ✅ Mengonfigurasi **Inter-VLAN Routing** menggunakan Router-on-a-Stick
-- ✅ Menerapkan **Spanning Tree Protocol (STP)** untuk mencegah *broadcast storm*
-- ✅ Merancang topologi jaringan yang **efisien dan terstruktur**
-- ✅ Memisahkan jaringan antar departemen demi keamanan dan manajemen yang lebih baik
+-  Memahami konsep dan implementasi **VLAN** (Virtual Local Area Network)
+-  Mengonfigurasi **Inter-VLAN Routing** menggunakan Router-on-a-Stick
+-  Menerapkan **Spanning Tree Protocol (STP)** untuk mencegah *broadcast storm*
+-  Merancang topologi jaringan yang **efisien dan terstruktur**
+-  Memisahkan jaringan antar departemen demi keamanan dan manajemen yang lebih baik
 
 ---
 
